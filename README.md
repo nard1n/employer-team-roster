@@ -7,7 +7,7 @@
 Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person.
 
 Screenshot of application:
-![Screenshot](image.png)
+![Screenshot](./Assets/team-roster.png)
 
 To watch a screencast of the running application, please click here: [Screencast](https://...)
 
@@ -33,25 +33,6 @@ team consists of a manager, and any number of engineers and interns.
 - Team members can have different titles (e.g. software engineer or interns)
 - Application passes included unit tests
 - When user completes building their team, application creates an HTML file that displays the team roster based on provided info
--- Inquirer to to prompt the user for their email, id, and specific information based on role (engineer = github, intern = school)
--- Jest for running tests
-
-      ````````````````````````````````````
-      recommended to start with a directory structure that looks like this:
-
-      lib/           // classes and helper code
-      output/        // rendered output
-      templates/     // HTML template(s)
-      test/          // jest tests
-        Employee.test.js
-        Engineer.test.js
-        Intern.test.js
-        Manager.test.js
-      app.js         // Runs the application
-
-      ````````
-      create multiple HTML templates (main.html, intern.html, engineer.html, manager.htm)
-      ``````````````````````````````````
 
 ## Contributing
 We love seeing community contribution to any opensource project! If you would like to contribute, please do.
