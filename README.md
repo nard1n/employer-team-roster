@@ -9,7 +9,7 @@ Node CLI that takes in information about employees and generates an HTML webpage
 Screenshot of application:
 ![Screenshot](./Assets/team-roster.png)
 
-To watch a screencast of the running application, please click here: [Screencast](https://...)
+To watch a screencast of the running application, please click here: [Screencast](https://drive.google.com/file/d/1YMC3pn4gC-_cdoNu-Uh-SmSjKYH0KGpC/view)
 
 This application allows management to generate a webpage that diplays the employees' basic information with quick access to emails and Github profiles
 
